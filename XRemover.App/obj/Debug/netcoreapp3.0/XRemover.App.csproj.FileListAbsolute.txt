@@ -1,0 +1,8 @@
+D:\InterviewS\PREPARING\xRemover\XRemover.App\bin\Debug\netcoreapp3.0\XRemover.App.deps.json
+D:\InterviewS\PREPARING\xRemover\XRemover.App\bin\Debug\netcoreapp3.0\XRemover.App.dll
+D:\InterviewS\PREPARING\xRemover\XRemover.App\bin\Debug\netcoreapp3.0\XRemover.App.pdb
+D:\InterviewS\PREPARING\xRemover\XRemover.App\obj\Debug\netcoreapp3.0\XRemover.App.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\xRemover\XRemover.App\obj\Debug\netcoreapp3.0\XRemover.App.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\xRemover\XRemover.App\obj\Debug\netcoreapp3.0\XRemover.App.AssemblyInfo.cs
+D:\InterviewS\PREPARING\xRemover\XRemover.App\obj\Debug\netcoreapp3.0\XRemover.App.dll
+D:\InterviewS\PREPARING\xRemover\XRemover.App\obj\Debug\netcoreapp3.0\XRemover.App.pdb
